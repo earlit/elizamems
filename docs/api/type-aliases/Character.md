@@ -342,4 +342,4 @@ Optional Twitter profile
 
 ## Defined in
 
-[packages/core/src/types.ts:609](https://github.com/ai16z/eliza/blob/main/packages/core/src/types.ts#L609)
+[packages/core/src/types.ts:609](https://gitlab.com/elizamems/mems/-/blob/main/packages/core/src/types.ts#L609)

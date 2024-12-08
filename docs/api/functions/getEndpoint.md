@@ -14,4 +14,4 @@
 
 ## Defined in
 
-[packages/core/src/models.ts:385](https://github.com/ai16z/eliza/blob/main/packages/core/src/models.ts#L385)
+[packages/core/src/models.ts:385](https://gitlab.com/elizamems/mems/-/blob/main/packages/core/src/models.ts#L385)
